@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+form{
+	width:450px;
+	border:1px solid gray;
+	padding:10px;
+}
+label{
+	width:120px;
+	float:left;		
+}
+form p:last-child {
+	padding-left:80px;	
+}
+span.error{
+	color:red;
+	font-size: 12px;
+	display: none;
+}
+span.error2{
+	color:red;
+	font-size: 9px;
+}
